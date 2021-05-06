@@ -1,0 +1,18 @@
+{
+    "name": "vendor/wecrawler",
+    "description": "Projeto executado como teste da empresa Alpes One",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "andreew",
+            "email": "andreew.k.januario@outlook.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Config\\" : "config",
+            "App\\" : "app"
+        }
+    },
+    "require": {}
+}
