@@ -44,6 +44,8 @@ CREATE TABLE `anuncios_olx` (
 
 Deixei a configuração do banco de dados em um arquivo na raiz para consultarem.
 
+há um README.md para o arquivo api-json no mesmo.
+
 
 
 
